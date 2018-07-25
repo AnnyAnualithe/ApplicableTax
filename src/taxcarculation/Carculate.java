@@ -1,7 +1,6 @@
 
 package taxcarculation;
 
-
 public class Carculate {
     int quantity = 0;
     String productName = null;
